@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.updates.checkOnStartup": false,
+  "rust-analyzer.procMacro.attributes.enable": true,
+  "rust-analyzer.diagnostics.disabled": [
+    "inactive-code"
+  ]
+}
